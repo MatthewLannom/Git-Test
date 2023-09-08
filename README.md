@@ -1,0 +1,1 @@
+The purpose of this repository is to help me get accustomed to git. I plan on using it to practice working with git.  
